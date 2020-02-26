@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image: images/slider-bg.jpg
+  bg_image: images/glasses-bg.jpg
   title: Products <br />  management & experince
   content: 'A site dedicated to discussing products, ideas, articles and a collection
     of references from around the web. '
