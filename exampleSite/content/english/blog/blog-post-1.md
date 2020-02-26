@@ -1,5 +1,5 @@
 ---
-title: How To White Shoes
+title: How To Wear White Shoes
 date: 2020-02-25T00:00:00+00:00
 author: Toby Treacher
 image: images/blog/blog-post-1.jpg
