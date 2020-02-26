@@ -3,8 +3,8 @@ banner:
   enable: true
   bg_image: images/slider-bg.jpg
   title: Products<br/>management & experince
-  content: We love the Web and the work we do.We work closely with our clients to
-    deliver  the best possible solutions for their needs
+  content: 'A site dedicated to discussing products, ideas, articles and a collection
+    of references from around the web. '
   button:
     enable: true
     label: find out more
