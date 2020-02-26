@@ -1,5 +1,5 @@
 baseURL = "https://pdrift.netlify.com"
-disableLanguages = ["Disablelanguage"]
+disableLanguages = ["FR"]
 disqusShortname = ""
 paginate = "4"
 summaryLength = "30"
