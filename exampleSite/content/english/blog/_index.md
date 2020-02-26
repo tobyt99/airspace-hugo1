@@ -4,3 +4,4 @@ description: General thoughts and musings on product ideas, friction and article
 bg_image: images/featue-bg.jpg
 
 ---
+Ideas Go here
