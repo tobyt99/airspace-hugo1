@@ -2,7 +2,7 @@
 banner:
   enable: true
   bg_image: images/glasses-bg.jpg
-  title: Products \\n management & experince
+  title: Products \n management & experince
   content: 'A site dedicated to discussing products, ideas, articles and a collection
     of references from around the web. '
   button:
