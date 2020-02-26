@@ -1,4 +1,4 @@
-baseURL = "https://pdrift.co.uk"
+baseURL = "https://pdrift.netlify.com"
 disableLanguages = []
 disqusShortname = ""
 paginate = "4"
