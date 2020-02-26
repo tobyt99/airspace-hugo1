@@ -76,7 +76,7 @@ URL = "contact"
 name = "Contact"
 weight = 6
 [params]
-author = "Themefisher"
+author = "pDrift"
 contact_form_action = "#"
 description = "This is meta description"
 email = "demo@email.com"
